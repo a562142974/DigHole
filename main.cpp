@@ -3,6 +3,6 @@
 
 
 int main(){
-    DigHole mydig("Mgrids.txt","Obj.txt");
+    DigHole mydig("Mgrids.txt","Obj1.txt");
     mydig.Dig("result.plt");
 }
